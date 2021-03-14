@@ -1,0 +1,9 @@
+https://fsnd21.us.auth0.com/authorize?audience=coffee-shop-full-stack&response_type=token&client_id=qCPSPFTDXdv8J9S2E1CSbdIJrJZ9EjXZ&redirect_uri=https://127.0.0.1:8100/login-result
+
+Barista
+Email: koozet@10minutesmail.com
+Pass: !Aa12345
+
+Manager
+Email: pibned@10minutesmail.com
+Pass: !Aa12345
